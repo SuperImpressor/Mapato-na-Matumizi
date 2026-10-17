@@ -1,2 +1,2 @@
 # Tunza
-Utunzaji wa kumbukumbu
+Utunzaji wa kumbukumbu za mapato na matumizi
