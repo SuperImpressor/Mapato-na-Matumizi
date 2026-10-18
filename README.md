@@ -1,2 +1,2 @@
-# Tunza
-Utunzaji wa kumbukumbu za mapato na matumizi
+# Mapato na matumizi 
+Mfumo wa kusimamia mapato na matumizi binafsi
